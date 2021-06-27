@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pksoftcore
+- 👀 I’m interested in Web development and Android App development
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Websites, Gui tools
